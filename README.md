@@ -38,3 +38,6 @@ Challenge   | Domain | Subdomain | Difficulty | Skills | Language | Submission D
 [Arithmetic Operators](python/arithmetic_operators.py) | Python | Introduction | Easy | Python (Basic) | Python 3 | 2021-10 | [description](https://www.hackerrank.com/challenges/python-arithmetic-operators/)
 [The World of Numbers](linux_shell/the_world_of_numbers.sh) | Linux Shell | Bash | Easy | Bash (Basic) | Bash | 2021-11-24 | [description](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/)
 [Python: Division](python/python_division.py) | Python | Introduction | Easy | Python (Basic) | Python 3 | 2021-11-24 | [description](https://www.hackerrank.com/challenges/python-division/)
+[Loops](python/loops.py) | Python | Introduction | Easy | Python (Basic) | Python 3 | 2021-11-27 | [description](https://www.hackerrank.com/challenges/python-loops/)
+[Print Function](python/print_function.py) | Python | Introduction | Easy | Python (Basic) | Python 3 | 2021-11-27 | [description](https://www.hackerrank.com/challenges/python-print/)
+[List Comprehensions](python/list_comprehensions.py) | Python | Introduction | Easy | Python (Basic) | Python 3 | 2021-11-27 | [description](https://www.hackerrank.com/challenges/list-comprehensions/)
