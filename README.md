@@ -41,4 +41,5 @@ Challenge   | Domain | Subdomain | Difficulty | Skills | Language | Submission D
 [Loops](python/loops.py) | Python | Introduction | Easy | Python (Basic) | Python 3 | 2021-11-27 | [description](https://www.hackerrank.com/challenges/python-loops/)
 [Print Function](python/print_function.py) | Python | Introduction | Easy | Python (Basic) | Python 3 | 2021-11-27 | [description](https://www.hackerrank.com/challenges/python-print/)
 [List Comprehensions](python/list_comprehensions.py) | Python | Introduction | Easy | Python (Basic) | Python 3 | 2021-11-27 | [description](https://www.hackerrank.com/challenges/list-comprehensions/)
-[Write a function](python/write_a_function.py) | Python | Introduction | Medium | Python (Basic) | Python 3 | 2021-11-27 | [description](https://www.hackerrank.com/challenges/write-a-function/)
+[Write a function](python/write_a_function.py) | Python | Introduction | Medium | Python (Basic) | Python 3 | 2021-11-28 | [description](https://www.hackerrank.com/challenges/write-a-function/)
+[Find the Runner-Up Score!](python/find_second_maximum_number_in_a_list.py) | Python | Basic Data Types | Easy | Python (Basic) | Python 3 | 2021-11-28 | [description](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/)
