@@ -45,3 +45,4 @@ Challenge   | Domain | Subdomain | Difficulty | Skills | Language | Submission D
 [Find the Runner-Up Score!](python/find_second_maximum_number_in_a_list.py) | Python | Basic Data Types | Easy | Python (Basic) | Python 3 | 2021-11-28 | [description](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/)
 [Nested Lists](python/nested_list.py) | Python | Basic Data Types | Easy | Python (Basic) | Python 3 | 2021-11-29 | [description](https://www.hackerrank.com/challenges/nested-list/)
 [Lists](python/lists.py) | Python | Basic Data Types | Easy | Python (Basic) | Python 3 | 2021-11-29 | [description](https://www.hackerrank.com/challenges/python-lists/)
+[Finding the percentage](python/finding_the_percentage.py) | Python | Basic Data Types | Easy | Python (Basic) | Python 3 | 2021-11-30 | [description](https://www.hackerrank.com/challenges/finding-the-percentage/)
