@@ -51,3 +51,4 @@ Challenge   | Domain | Subdomain | Difficulty | Skills | Language | Submission D
 [String Split and Join](python/string_split_and_join.py) | Python | Strings | Easy | Python (Basic) | Python 3 | 2021-12-02 | [description](https://www.hackerrank.com/challenges/python-string-split-and-join/)
 [What's Your Name?](python/whats_your_name.py) | Python | Strings | Easy | Python (Basic) | Python 3 | 2021-12-02 | [description](https://www.hackerrank.com/challenges/whats-your-name/)
 [Mutations](python/mutations.py) | Python | Strings | Easy | Python (Basic) | Python 3 | 2021-12-02 | [description](https://www.hackerrank.com/challenges/python-mutations/)
+[Find a string](python/find_a_string.py) | Python | Strings | Easy | Python (Basic) | Python 3 | 2021-12-02 | [description](https://www.hackerrank.com/challenges/find-a-string/)
