@@ -48,3 +48,4 @@ Challenge   | Domain | Subdomain | Difficulty | Skills | Language | Submission D
 [Finding the percentage](python/finding_the_percentage.py) | Python | Basic Data Types | Easy | Python (Basic) | Python 3 | 2021-11-30 | [description](https://www.hackerrank.com/challenges/finding-the-percentage/)
 [Tuples](python/tuples.py) | Python | Basic Data Types | Easy | Python (Basic) | Python 3 | 2021-12-01 | [description](https://www.hackerrank.com/challenges/python-tuples/)
 [sWAP cASE](python/swap_case.py) | Python | Strings | Easy | Python (Basic) | Python 3 | 2021-12-01 | [description](https://www.hackerrank.com/challenges/swap-case/)
+[String Split and Join](python/string_split_and_join.py) | Python | Strings | Easy | Python (Basic) | Python 3 | 2021-12-02 | [description](https://www.hackerrank.com/challenges/python-string-split-and-join/)
