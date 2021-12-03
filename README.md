@@ -52,3 +52,4 @@ Challenge   | Domain | Subdomain | Difficulty | Skills | Language | Submission D
 [What's Your Name?](python/whats_your_name.py) | Python | Strings | Easy | Python (Basic) | Python 3 | 2021-12-02 | [description](https://www.hackerrank.com/challenges/whats-your-name/)
 [Mutations](python/mutations.py) | Python | Strings | Easy | Python (Basic) | Python 3 | 2021-12-02 | [description](https://www.hackerrank.com/challenges/python-mutations/)
 [Find a string](python/find_a_string.py) | Python | Strings | Easy | Python (Basic) | Python 3 | 2021-12-02 | [description](https://www.hackerrank.com/challenges/find-a-string/)
+[Say "Hello, World!" With C++](cpp/hello_world.cpp) | C++ | Introduction | Easy | C++ (Basic) | C++ | 2021-12-03 | [description](https://www.hackerrank.com/challenges/cpp-hello-world/)
