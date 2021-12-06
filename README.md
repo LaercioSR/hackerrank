@@ -56,3 +56,4 @@ Challenge   | Domain | Subdomain | Difficulty | Skills | Language | Submission D
 [Input and Output](cpp/input_and_output.cpp) | C++ | Introduction | Easy | C++ (Basic) | C++ | 2021-12-04 | [description](https://www.hackerrank.com/challenges/cpp-input-and-output/)
 [Basic Data Types](cpp/tutorial_basic_data_types.cpp) | C++ | Introduction | Easy | C++ (Basic) | C++ | 2021-12-05 | [description](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/)
 [Conditional Statements](cpp/tutorial_conditional_if_else.cpp) | C++ | Introduction | Easy | C++ (Basic) | C++ | 2021-12-05 | [description](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/)
+[For Loop](cpp/tutorial_for_loop.cpp) | C++ | Introduction | Easy | C++ (Basic) | C++ | 2021-12-06 | [description](https://www.hackerrank.com/challenges/c-tutorial-for-loop/)
