@@ -55,3 +55,4 @@ Challenge   | Domain | Subdomain | Difficulty | Skills | Language | Submission D
 [Say "Hello, World!" With C++](cpp/hello_world.cpp) | C++ | Introduction | Easy | C++ (Basic) | C++ | 2021-12-03 | [description](https://www.hackerrank.com/challenges/cpp-hello-world/)
 [Input and Output](cpp/input_and_output.cpp) | C++ | Introduction | Easy | C++ (Basic) | C++ | 2021-12-04 | [description](https://www.hackerrank.com/challenges/cpp-input-and-output/)
 [Basic Data Types](cpp/tutorial_basic_data_types.cpp) | C++ | Introduction | Easy | C++ (Basic) | C++ | 2021-12-05 | [description](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/)
+[Conditional Statements](cpp/tutorial_conditional_if_else.cpp) | C++ | Introduction | Easy | C++ (Basic) | C++ | 2021-12-05 | [description](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/)
