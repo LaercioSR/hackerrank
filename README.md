@@ -58,3 +58,4 @@ Challenge   | Domain | Subdomain | Difficulty | Skills | Language | Submission D
 [Conditional Statements](cpp/tutorial_conditional_if_else.cpp) | C++ | Introduction | Easy | C++ (Basic) | C++ | 2021-12-05 | [description](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/)
 [For Loop](cpp/tutorial_for_loop.cpp) | C++ | Introduction | Easy | C++ (Basic) | C++ | 2021-12-06 | [description](https://www.hackerrank.com/challenges/c-tutorial-for-loop/)
 [Functions](cpp/tutorial_functions.cpp) | C++ | Introduction | Easy | C++ (Basic) | C++ | 2021-12-06 | [description](https://www.hackerrank.com/challenges/c-tutorial-functions/)
+[Pointer](cpp/tutorial_pointer.cpp) | C++ | Introduction | Easy | C++ (Basic) | C++ | 2021-12-07 | [description](https://www.hackerrank.com/challenges/c-tutorial-pointer/)
