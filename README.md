@@ -61,3 +61,5 @@ Challenge   | Domain | Subdomain | Difficulty | Skills | Language | Submission D
 [Pointer](cpp/tutorial_pointer.cpp) | C++ | Introduction | Easy | C++ (Basic) | C++ | 2021-12-07 | [description](https://www.hackerrank.com/challenges/c-tutorial-pointer/)
 [Arrays Introduction](cpp/arrays_introduction.cpp) | C++ | Introduction | Easy | C++ (Basic) | C++ | 2021-12-10 | [description](https://www.hackerrank.com/challenges/arrays-introduction/)
 [String Validators](python/string_validators.py) | Python | Strings | Easy | Python (Basic) | Python 3 | 2022-05-15 | [description](https://www.hackerrank.com/challenges/string-validators)
+[Text Alignment](python/text_alignment.py) | Python | Strings | Easy | Python (Basic) | Python 3 | 2022-05-16 | [description](https://www.hackerrank.com/challenges/text-alignment)
+[Text Wrap](python/text_wrap.py) | Python | Strings | Easy | Python (Basic) | Python 3 | 2022-05-16 | [description](https://www.hackerrank.com/challenges/text-wrap)
